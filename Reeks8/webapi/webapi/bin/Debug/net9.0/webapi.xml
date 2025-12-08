@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webapi</name>
+    </assembly>
+    <members>
+        <member name="M:webapi.Controllers.NewsMessagesController.GetNieuwsbericht">
+            <summary>
+            Toont alle nieuwsberichten
+            </summary>
+            <returns>
+            Een collectie van nieuwsberichten
+            </returns>
+        </member>
+        <member name="M:webapi.Controllers.NewsMessagesController.GetNieuwsbericht(System.Nullable{System.Int32})">
+            <summary>
+            Haalt een specifiek nieuwsbericht op
+            </summary>
+            <param name="id"></param> 
+            
+        </member>
+        <member name="M:webapi.Controllers.NewsMessagesController.PutNieuwsbericht(System.Nullable{System.Int32},webapi.Model.Nieuwsbericht)">
+            <summary>
+            Past een specifiek nieuwsbericht aan
+            </summary>
+            <param name="id">unieke id van het nieuwsbericht</param>   
+            <param name="nieuwsbericht">aangepaste nieuwsbericht</param>  
+        </member>
+        <member name="M:webapi.Controllers.NewsMessagesController.PostNieuwsbericht(webapi.Model.Nieuwsbericht)">
+            <summary>
+            Voeg een nieuw nieuwsbericht toe
+            </summary>
+            <remarks>
+            Voorbeeld request:
+            
+                POST api/NewsMessages
+                {
+                    "titel": "tweede bericht",
+                    "bericht": "inhoud bericht",
+                    "datum": "2020-11-13T11:37:59.833Z"
+                }
+                
+            </remarks>
+            <param name="nieuwsbericht">nieuw nieuwsbericht</param>  
+        </member>
+        <member name="M:webapi.Controllers.NewsMessagesController.DeleteNieuwsbericht(System.Nullable{System.Int32})">
+            <summary>
+            Verwijdert een specifiek nieuwsbericht
+            </summary>
+            <param name="id"></param>   
+            <response code="204">Empty response indicating a successfull delete</response>
+            <response code="404">The item to delete is not found</response>    
+        </member>
+        <member name="T:webapi.Migrations.Initial">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.Migrations.Initial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.Migrations.Initial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:webapi.Migrations.Initial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

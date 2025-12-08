@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\controllers\\newsmessagesmemorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\newsmessagesmemorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\data\\nieuwsberichtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\data\\nieuwsberichtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\controllers\\newsmessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\newsmessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\nieuwsapi.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\nieuwsapi.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\model\\nieuwsbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\model\\nieuwsbericht.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\migrations\\newscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\migrations\\newscontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\data\\newscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\data\\newscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|c:\\users\\hanne\\onedrive - ugent\\onderwijs_opdracht\\frameworks2526\\serversideframeworks\\labo\\2425\\reeks8 - web api\\webapi\\webapi\\webapi.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61158743-E825-4758-BF66-86D9CC33625D}|webapi\\webapi.csproj|solutionrelative:webapi\\webapi.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1165716486:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nieuwsbericht.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Model\\Nieuwsbericht.cs",
+              "RelativeDocumentMoniker": "webapi\\Model\\Nieuwsbericht.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Model\\Nieuwsbericht.cs",
+              "RelativeToolTip": "webapi\\Model\\Nieuwsbericht.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:11:26.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsMessagesMemoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Controllers\\NewsMessagesMemoryController.cs",
+              "RelativeDocumentMoniker": "webapi\\Controllers\\NewsMessagesMemoryController.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Controllers\\NewsMessagesMemoryController.cs",
+              "RelativeToolTip": "webapi\\Controllers\\NewsMessagesMemoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:10:54.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\appsettings.json",
+              "RelativeDocumentMoniker": "webapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\appsettings.json",
+              "RelativeToolTip": "webapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T09:11:32.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Migrations\\NewsContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "webapi\\Migrations\\NewsContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Migrations\\NewsContextModelSnapshot.cs",
+              "RelativeToolTip": "webapi\\Migrations\\NewsContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:11:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NieuwsberichtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Data\\NieuwsberichtRepository.cs",
+              "RelativeDocumentMoniker": "webapi\\Data\\NieuwsberichtRepository.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Data\\NieuwsberichtRepository.cs",
+              "RelativeToolTip": "webapi\\Data\\NieuwsberichtRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:11:13.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsMessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Controllers\\NewsMessagesController.cs",
+              "RelativeDocumentMoniker": "webapi\\Controllers\\NewsMessagesController.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Controllers\\NewsMessagesController.cs",
+              "RelativeToolTip": "webapi\\Controllers\\NewsMessagesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:05:29.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NieuwsAPI.xml",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\NieuwsAPI.xml",
+              "RelativeDocumentMoniker": "webapi\\NieuwsAPI.xml",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\NieuwsAPI.xml",
+              "RelativeToolTip": "webapi\\NieuwsAPI.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-04T09:11:35.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NewsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Data\\NewsContext.cs",
+              "RelativeDocumentMoniker": "webapi\\Data\\NewsContext.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Data\\NewsContext.cs",
+              "RelativeToolTip": "webapi\\Data\\NewsContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:11:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "webapi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "webapi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:11:06.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "webapi.xml",
+              "DocumentMoniker": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\webapi.xml",
+              "RelativeDocumentMoniker": "webapi\\webapi.xml",
+              "ToolTip": "C:\\Users\\Hanne\\OneDrive - UGent\\Onderwijs_opdracht\\Frameworks2526\\serversideframeworks\\labo\\2425\\Reeks8 - Web API\\webapi\\webapi\\webapi.xml",
+              "RelativeToolTip": "webapi\\webapi.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-12-04T09:04:50.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
